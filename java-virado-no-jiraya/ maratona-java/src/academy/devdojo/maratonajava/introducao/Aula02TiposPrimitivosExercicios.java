@@ -8,7 +8,10 @@ package academy.devdojo.maratonajava.introducao;
 public class Aula02TiposPrimitivosExercicios {
     
     public static void main(String[] args) {
-        
+        String name = "Kirito";
+        String address = "Av Joao das blabla";
+        double slario = 3455.66;
+        String dataRecebimentoSalario = "20/13/2026";
     }
 
 }
